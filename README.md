@@ -1,4 +1,4 @@
-# Blender-Image-Downloader
+# The Blender ImageDownloader
 An Addon which downloads images from links directly into .blend files, no external saving required!
 
 ![Reference Images](https://i.imgur.com/h4RnlKR.png)
